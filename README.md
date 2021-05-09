@@ -11,4 +11,9 @@
 <img src="./arch-logo4.svg.svg" height="300">
 <img src="./arch-logo5.png" height="300">
 <img src="./arch-logo6.png" height="300">
+
+### and the good old official logo
+
 <img src="./arch-log.svg" height="300">
+
+I appologize for inconsistancies in this project (such as file extentions) I'll fix them soon as possible
